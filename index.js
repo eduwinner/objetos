@@ -1,6 +1,6 @@
 class formaDeBolo {
   constructor(saborDaMassa, saborDoRecheio) {
-    this.saborDaMassa = saborDaMassa;
+    this.saborDaMassa = saborDaMassa; 
     this.saborDoRecheio = saborDoRecheio;
   }
 
